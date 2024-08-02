@@ -421,14 +421,14 @@ span {
   
 }
 
-#control{
+#body{
   width: 50%;
   height: 50%;
   object-fit: cover;
   align-items: center;
 }
 @media screen and (max-width:995px){
-  .control .timeline {
+  .body .timeline {
     margin-top: 2rem;}
 
 
