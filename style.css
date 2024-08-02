@@ -403,7 +403,7 @@ span {
 }
 .education .timeline {
   position: center;
-  max-width: 2px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
@@ -427,6 +427,10 @@ span {
   object-fit: cover;
   align-items: center;
 }
+@media screen and (max-width:600px){
+  .education .timeline {
+    margin-top: 2rem;}
+
 
 
 
