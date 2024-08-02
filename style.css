@@ -413,8 +413,8 @@ span {
 }
 
 #video{
-  width: 75px;
-  height: 75vh;
+  width: 50px;
+  height: 50vh;
   overflow: hidden;
   position: relative;
   align-items: center;
@@ -427,7 +427,7 @@ span {
   object-fit: cover;
   align-items: center;
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:300px){
   .control .timeline {
     margin-top: 2rem;}
 
