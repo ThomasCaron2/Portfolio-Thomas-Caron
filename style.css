@@ -427,7 +427,7 @@ span {
   object-fit: cover;
   align-items: center;
 }
-@media screen and (max-width:300px){
+@media screen and (max-width:995px){
   .control .timeline {
     margin-top: 2rem;}
 
