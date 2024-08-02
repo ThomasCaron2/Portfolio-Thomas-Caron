@@ -428,7 +428,7 @@ span {
   align-items: center;
 }
 @media screen and (max-width:600px){
-  .education .timeline {
+  .control .timeline {
     margin-top: 2rem;}
 
 
